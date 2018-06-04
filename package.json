@@ -1,7 +1,8 @@
 {
   "name": "youtube-node-custom",
   "description": "Youtube API v3 client for nodeJS",
-  "version": "1.4.4",
+  "version": "1.4.5",
+  "repository": "https://github.com/prateekrastogi/youtube-node",
   "author": "Prateek Rastogi",
   "keywords": [
     "youtube",
